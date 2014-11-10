@@ -1,0 +1,21 @@
+{
+  "name": "gest-keys",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/markalfred/gest-keys",
+  "authors": [
+    "Mark Battersby <mark@mojotech.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "clmtrackr": "*"
+  }
+}

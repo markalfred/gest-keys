@@ -1,0 +1,17 @@
+{
+  "name": "gest-keys",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"None yet.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markalfred/gest-keys.git"
+  },
+  "author": "Mark Battersby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markalfred/gest-keys/issues"
+  },
+  "homepage": "https://github.com/markalfred/gest-keys"
+}
